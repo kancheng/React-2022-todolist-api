@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## TodoList
 
+- https://github.com/facebook/create-react-app
+
+- https://hackmd.io/VqEGaLa7TAW41hKsWZp4kA
+
+- https://github.com/hexschool/react-daily-task-router
+
+
 ### Task
 
 1. Figma 設計稿
@@ -29,6 +36,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Duke3462
 
 - https://s6969409.github.io/reactAPI/
+
+- https://github.com/s6969409/reactAPI
 
 3. NNNNNN
 
